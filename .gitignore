@@ -158,3 +158,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+SBJ_2309_001/11.청주시_버스정류장_승하차이력.csv
+SBJ_2309_001/12.청주시_추정교통량.csv
+SBJ_2309_001/15.청주시_도로명주소(건물).geojson
+SBJ_2309_001/21.청주시_개별공시지가.csv
+SBJ_2309_001/2.청주시_성연령별_유동인구.csv
+SBJ_2309_001/3.청주시_시간대별_유동인구.csv
+SBJ_2309_001/4.청주시_요일별_유동인구.csv
