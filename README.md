@@ -9,7 +9,7 @@
     git clone git@github.com:DDalaDDula/Strategy_to_revitalize_the-original_city_center.git
     cd Strategy_to_revitalize_the-original_city_center
 
-### Environment(분석 및 시각화 환경파일입니다. python==3.8.16)
+### Conda Virtual Environment(분석 및 시각화 환경. python==3.8.16)
 
     conda env create -f GIS.yaml
     conda activate NIFOS
