@@ -12,6 +12,6 @@
 ### 🐍Conda Virtual Environment(분석 및 시각화 환경. python==3.8.16)
 
     conda env create -f GIS.yaml
-    conda activate NIFOS
+    conda activate GIS
 
 ---
